@@ -5,9 +5,25 @@
     <description>0xmc's blog | mc Blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Feb 2022 21:06:55 +0800</pubDate>
-    <lastBuildDate>Wed, 16 Feb 2022 21:06:55 +0800</lastBuildDate>
+    <pubDate>Wed, 16 Feb 2022 21:11:56 +0800</pubDate>
+    <lastBuildDate>Wed, 16 Feb 2022 21:11:56 +0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>test1</title>
+        <description>&lt;h1 id=&quot;test&quot;&gt;test&lt;/h1&gt;
+&lt;h2 id=&quot;test-1&quot;&gt;test 1&lt;/h2&gt;
+</description>
+        <pubDate>Wed, 16 Feb 2022 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2022/02/16/Curve-v1-StableSwap1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/02/16/Curve-v1-StableSwap1/</guid>
+        
+        <category>test</category>
+        
+        <category>report</category>
+        
+        
+      </item>
     
       <item>
         <title>Curve v1 StableSwap code review</title>
