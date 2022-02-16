@@ -3,7 +3,7 @@ layout:     post
 title:      "Curve v1 StableSwap code review"
 subtitle:   "Curve v1 StableSwap code review"
 date:       2022-02-12
-author:     "0xstan"
+author:     "0xmc"
 header-img: "img/home-bg-o.jpg"
 mathjax: true
 tags:

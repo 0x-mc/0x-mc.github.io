@@ -1,11 +1,11 @@
 # Site settings
-title: 0xstan blog
-SEOTitle: 0xstan's blog | stan Blog
+title: 0xmc blog
+SEOTitle: 0xmc's blog | mc Blog
 header-img: img/home-bg.jpg
-email: 0xstan.com@gmail.com
-description: "0xstan's blog | stan Blog"
-keyword: "0xstan blockchain web3 ethereum "
-url: "https://0xstan.com"              # your host, for absolute URL
+email: 0xmc.com@gmail.com
+description: "0xmc's blog | mc Blog"
+keyword: "0xmc blockchain web3 ethereum "
+url: "https://0xmc.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,13 +13,13 @@ future: true
 
 # SNS settings
 RSS: false
-# weibo_username:     0xstan
-# zhihu_username:     0xstan
-github_username:    0xstan
-twitter_username:   0xstan_
-#facebook_username:  0xstan
+# weibo_username:     0xmc
+# zhihu_username:     0xmc
+github_username:    0x-mc
+twitter_username:   0xMC_com
+#facebook_username:  0xmc
 #linkedin_username:  firstname-lastname-idxxxx
-medium_username:   0xstan
+medium_username:   0xMC
 
 
 
@@ -60,7 +60,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: 0xstan-com
+disqus_username: 0xmc-com
 
 # Netease settings
 netease_comment: false
@@ -73,14 +73,14 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-220105546-1'            # Format: UA-xxxxxx-xx
-ga_domain: 0xstan.com
+ga_domain: 0xmc.com
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "0xstan, web3 coder."
-sidebar-avatar: https://avatars.githubusercontent.com/u/19644290?s=400&u=d329c0125fc2da65b39f8ae91ae7bf233d937b5f&v=4 # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "0xmc, web3 coder."
+sidebar-avatar: https://avatars.githubusercontent.com/u/99597840?s=400&u=68f9265c599c8eb478f0a9694a12493a6d3b5176&v=4 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
