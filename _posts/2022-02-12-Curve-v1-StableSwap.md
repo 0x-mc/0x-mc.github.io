@@ -20,7 +20,7 @@ curve v1 通过实现 StableSwap 恒等式的交易池，达到比恒定乘积(U
 curve v1 核心公式
 
 将恒定和等式与恒定乘积等式合并，给予系数 $\chi$ (希腊字母)
-![](./13/home-bg.jpg)
+![](/13/home-bg.jpg)
 $\chi D^{n-1}\Sigma x_i+\Pi x_i=\chi D^n + (\frac{D}{n})^n$
 <!-- <img src="https://render.githubusercontent.com/render/math?math=\chi D^{n-1}\Sigma x_i%2B\Pi x_i=\chi D^n %2B (\frac{D}{n})^n" /> -->
 
